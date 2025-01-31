@@ -6,7 +6,7 @@ REPO_NAME="test-repo-fts"
 WORKFLOW_ID="test-workflow.yml"
 
 # Set your Personal Access Token (PAT)
-GITHUB_TOKEN="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"
+GITHUB_TOKEN=""
 
 # Trigger the workflow using the repository_dispatch event
 response=$(curl -s -X POST \
